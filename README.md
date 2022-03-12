@@ -16,4 +16,5 @@ Use this chip to develop the below requirements:
 
 - [Node.js](https://nodejs.org/en/)
 - [Python3](https://www.python.org/downloads/)
+- [ArduSpreadsheet](https://circuitjournal.com/arduino-serial-to-spreadsheet)
     
