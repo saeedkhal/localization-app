@@ -9,7 +9,7 @@ Use this chip to develop the below requirements:
 2. using web socket create a socket connection with sever to send wifi strength
 3. the readings should be sent to another server containing the model to get the location 
 4. the location then will be viewed in a mobile and web application 
-5. the last ten lactation could be used in replay 
+5. the last ten lactations could be used in replay 
 
  
 ## prerequisites
